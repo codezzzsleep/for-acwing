@@ -21,5 +21,6 @@ int main() {
 		res = max(res, b[i]);
 	}
 	cout << res;
+
 	return 0;
 }
